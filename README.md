@@ -2,4 +2,4 @@
 Dataset
 
 Reference:
-C. Livingston and A. H. Moore, KnotInfo: Table of Knot Invariants, knotinfo.org, today's date (eg. April 8, 2026).
+C. Livingston and A. H. Moore, KnotInfo: Table of Knot Invariants, knotinfo.org, April 8, 2026.
